@@ -1,5 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-![image](https://user-images.githubusercontent.com/73816326/151136429-db8c6851-06f1-43ee-b85a-441c8fa03f3f.png)
+https://dev.azure.com/v-bebai0414/Aurora/_apis/build/status/BenjamingJin.pipelines-dotnet-core?branchName=master
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
